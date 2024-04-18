@@ -1,6 +1,5 @@
 # Moodle Solver
 
-## Moved to Ko-Fi -> https://ko-fi.com/s/c0776db2ad
 
 **Description:**
 
